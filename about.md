@@ -1,12 +1,11 @@
-
 # About
-title: Service Release 8.5
 
-image: /assets/img/blog/louis-hansel.jpg
+The "Best Jekyll Theme by a Mile".
+{:.lead}
 
-description: >
-  Service release 8.5 includes a number of obvious improvements made possible by changes in the way the web works.
----
+![w3m Screenshot](/assets/img/blog/louis-hansel.jpg)
+The Hydejack blog, as seen by the text browser `w3m`.
+{:.figure}
 
 
 **Hydejack** is your presence on the web. It gives you a *blog* that is suitable for both prose and technical documentation, a *portfolio* to showcase your projects, and a beautiful *resume* template that looks amazing on the web and in print.
