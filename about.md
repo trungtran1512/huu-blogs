@@ -1,15 +1,10 @@
----
-title: Service Release 8.5 
-image: /assets/img/blog/louis-hansel.jpg 
-description: > Service release 8.5 includes a number of obvious improvements made possible by changes in the way the web works. ---
----
 
 # About
 
 The "Best Jekyll Theme by a Mile".
 {:.lead}
 
-![w3m Screenshot](assets/img/blog/w3m.png){:data-width="1920" data-height="1260"}
+![w3m Screenshot](/assets/img/blog/louis-hansel.jpg){:data-width="1920" data-height="1260"}
 The Hydejack blog, as seen by the text browser `w3m`.
 {:.figure}
 
