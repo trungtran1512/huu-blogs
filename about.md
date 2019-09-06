@@ -1,5 +1,7 @@
 ---
-image: /assets/img/blog/hydejack-8.png
+title: Service Release 8.5 
+image: /assets/img/blog/louis-hansel.jpg 
+description: > Service release 8.5 includes a number of obvious improvements made possible by changes in the way the web works. ---
 ---
 
 # About
