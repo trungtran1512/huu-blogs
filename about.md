@@ -7,9 +7,10 @@ image: /assets/img/blog/hydejack-8.png
 The "Best Jekyll Theme by a Mile".
 {:.lead}
 
-![Screenshot](assets/img/blog/hydejack-8.png){:.lead srcset="/assets/img/blog/hydejack-8.png 1920w, /assets/img/blog/hydejack-8@0,5x.png 960w, /assets/img/blog/hydejack-8@0,25x.png 480w" data-width="1920" data-height="1080"}
-Hydejack's cover page on a variety of screens.
+![w3m Screenshot](assets/img/blog/w3m.png){:data-width="1920" data-height="1260"}
+The Hydejack blog, as seen by the text browser `w3m`.
 {:.figure}
+
 
 **Hydejack** is your presence on the web. It gives you a *blog* that is suitable for both prose and technical documentation, a *portfolio* to showcase your projects, and a beautiful *resume* template that looks amazing on the web and in print.
 
