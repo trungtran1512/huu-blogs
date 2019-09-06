@@ -4,7 +4,7 @@
 The "Best Jekyll Theme by a Mile".
 {:.lead}
 
-![w3m Screenshot](assets/img/blog/hydejack-8.png.png){:data-width="1920" data-height="1260"}
+![w3m Screenshot](assets/img/blog/hydejack-8.png){:data-width="1920" data-height="1260"}
 The Hydejack blog, as seen by the text browser `w3m`.
 {:.figure}
 
