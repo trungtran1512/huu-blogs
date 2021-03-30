@@ -6,7 +6,7 @@ description: >
   Check out the `blog` layout for comparison.
   Open `posts.md` to edit this text.
 ---
-
+> Deviceのトークン
 ```
 {
   "auto_gate": false,
@@ -113,4 +113,3 @@ description: >
   ]
 }
 ```
-> Deviceのトークン
