@@ -3,8 +3,13 @@
 
 #### 前提条件 : ログイン済（トークンが取得済）であること
 > Deviceのトークン
-- 例：{"name": "authentication", "value": "1ec2c40395ae4c04b7331ba813dc202e"}
-
+- 例：
+```
+  {
+    "name": "authentication",
+    "value": "1ec2c40395ae4c04b7331ba813dc202e"
+  }
+```
 
 #### 1. Create : [device/visits/walkin/create.yml](../1/admin_apis/device/visits/walkin/create.yml)
 
