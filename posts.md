@@ -113,3 +113,4 @@ description: >
   ]
 }
 ```
+> Deviceのトークン
